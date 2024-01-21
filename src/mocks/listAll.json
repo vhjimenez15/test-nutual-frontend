@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "address": "Carrer de Pau Alsina 10, Principal A",
+            "city": "Barcelona",
+            "has_elevator": true,
+            "id": 1,
+            "latitude": 41.4106,
+            "longitude": 2.16188,
+            "price_m2": 5421,
+            "total_area": 83,
+            "total_price": 450000,
+            "valuation_date": "2021-10-09",
+            "year_of_construction": 1900,
+            "year_of_renovation": 2020,
+            "zipcode": "08025"
+        },
+        {
+            "address": "Carrer de Pau Alsina 10, Principal A",
+            "city": "Barcelona",
+            "has_elevator": true,
+            "id": 2,
+            "latitude": 41.4106,
+            "longitude": 2.16188,
+            "price_m2": 5421,
+            "total_area": 83,
+            "total_price": 450000,
+            "valuation_date": "2021-10-09",
+            "year_of_construction": 1900,
+            "year_of_renovation": 2020,
+            "zipcode": "08025"
+        }
+    ],
+    "message": "Successful"
+}
