@@ -10,11 +10,11 @@ Se creó una aplicación backend construida en React (framework para javaScript)
 
 # Pasos para correr la aplicacion en local (Frontend)
 
-Descargue el archivo o clone el repositorio en la respectiva máquina de prueba ("agregar repositorio").
+Descargue el archivo o clone el repositorio en la respectiva máquina de prueba (https://github.com/vhjimenez15/test-nutual-frontend.git).
 
 Si tiene git y desea clonarlo del repositorio ejecute:
 ```
-git clone "agregar repositorio"
+git clone https://github.com/vhjimenez15/test-nutual-frontend.git
 ```
 Entre a la carpeta test-nutual-frontend, abra una terminal de su preferencia y ejecute:
 ```
